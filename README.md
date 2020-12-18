@@ -1,8 +1,7 @@
-# brew tap shivammathur/php
+# brew tap melefabrizio/homebrew-php
 
-<a href="https://github.com/shivammathur/homebrew-php" title="Homebrew tap to install PHP"><img alt="Build status" src="https://github.com/shivammathur/homebrew-php/workflows/Update%20and%20Build%20Formulae/badge.svg"></a>
-<a href="https://github.com/shivammathur/homebrew-php/blob/master/LICENSE" title="license"><img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-428f7e.svg"></a>
-<a href="https://github.com/shivammathur/homebrew-php/tree/master/Formula" title="Formulae for PHP versions"><img alt="PHP Versions Supported" src="https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg"></a>
+just a fork of shivammathur/homebrew-php with snmp extension enabled.
+
 
 > Homebrew tap for PHP releases.
 
