@@ -166,6 +166,7 @@ class Php < Formula
       --with-pspell=#{Formula["aspell"].opt_prefix}
       --with-sodium
       --with-sqlite3
+      --with-snmp
       --with-tidy=#{Formula["tidy-html5"].opt_prefix}
       --with-unixODBC
       --with-xmlrpc
